@@ -22,6 +22,7 @@
         android:src="@drawable/ic_back"
         android:layout_marginLeft="16dp"
         android:layout_marginTop="16dp"
+        android:id="@+id/M_btn_back"
         />
 
     <TextView
@@ -129,6 +130,7 @@
             android:textSize="12sp"
             android:textColor="@color/primaryColor"
             android:layout_marginLeft="3dp"
+            android:id="@+id/L_toRegist"
             />
     </LinearLayout>
 </RelativeLayout>
